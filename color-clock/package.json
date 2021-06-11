@@ -1,0 +1,19 @@
+{
+  "name": "color-clock",
+  "version": "1.0.0",
+  "description": "This is my first lab about npm!",
+  "main": "index.js",
+  "scripts": {
+    "test": "Hello, World!"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/ARS-coding/npm-lab.git"
+  },
+  "author": "Ali Riza Sahin",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/ARS-coding/npm-lab/issues"
+  },
+  "homepage": "https://github.com/ARS-coding/npm-lab#readme"
+}

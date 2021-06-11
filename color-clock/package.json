@@ -15,5 +15,8 @@
   "bugs": {
     "url": "https://github.com/ARS-coding/npm-lab/issues"
   },
-  "homepage": "https://github.com/ARS-coding/npm-lab#readme"
+  "homepage": "https://github.com/ARS-coding/npm-lab#readme",
+  "dependencies": {
+    "moment": "^2.29.1"
+  }
 }
